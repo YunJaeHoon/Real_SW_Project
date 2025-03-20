@@ -1,5 +1,9 @@
-public class Main {
-    public static void main(String[] args) {
-        System.out.println("Hello, World!");
+import frame.MainFrame;
+
+public class Main
+{
+    public static void main(String[] args)
+    {
+        MainFrame mainFrame = new MainFrame();
     }
 }
