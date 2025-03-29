@@ -9,8 +9,7 @@ public class MainFrame extends JFrame
     {
         setTitle("그림을 그려보아요~");    // 프레임 제목
         setSize(500, 300);              // 프레임 크기
-
-
+        
         // 종료 버튼 동작 설정
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
